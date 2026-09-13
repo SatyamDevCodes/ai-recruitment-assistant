@@ -1,0 +1,24 @@
+Job Title: Backend Python Developer
+
+We are looking for a Backend Python Developer with the following skills:
+
+Required Skills:
+- Python
+- FastAPI or Flask
+- SQL (PostgreSQL/MySQL/SQLite)
+- REST API design
+- Machine Learning basics
+- Docker
+
+Nice to have:
+- TensorFlow or PyTorch
+- Experience with LLM-based applications
+- Cloud experience (AWS/GCP/Azure)
+
+Experience: 2+ years preferred
+
+Responsibilities:
+- Build and maintain backend services
+- Design and implement REST APIs
+- Work with databases and optimize queries
+- Collaborate with frontend and ML teams
