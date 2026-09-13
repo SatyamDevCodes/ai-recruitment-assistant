@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = " https://ai-recruitment-assistant-ae14.onrender.com";
 
 // 1. Resumes + Job Description upload karna
 export async function uploadResumes(files, jobDescription, jobTitle) {
